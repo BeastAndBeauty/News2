@@ -1,2 +1,2 @@
 聚合数据-新闻头条api
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://raw.githubusercontent.com/BeastAndBeauty/News2/master/app/src/main/res/drawable-hdpi/interface.jpg)
